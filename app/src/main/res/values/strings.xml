@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">examenTecnico</string>
+
+    <string name="recipes_title">Recetas de cocina</string>
+    <string name="description_close_app">Close app</string>
+    <string name="description_recipe_image">Recipe Image</string>
+    <string name="title_detail">Detalles</string>
+    <string name="recipes_ingredients">Ingredientes</string>
+    <string name="cock_time">Tiempo de cocción</string>
+    <string name="cock_rations">Porciones</string>
+    <string name="food_type">Tipo de comida</string>
+    <string name="map_button">Ver mapa</string>
+</resources>
